@@ -31,6 +31,7 @@ Given this context, it is crucial for financial institutions to develop robust p
 
 8. *Distribution of Late Payments*:
    - Most borrowers have zero to one late payment, while a smaller proportion has multiple late payments, indicating varying levels of financial management among borrowers.
+     ![Results](images/LoanDelinquency_1.png)
 
 These insights and analysis results provide a comprehensive understanding of the loan data, highlighting key trends and relationships that can help financial institutions improve their risk management strategies. The ability to predict and mitigate loan delinquency risks can significantly enhance financial stability and profitability.
 
