@@ -32,27 +32,6 @@ Given this context, it is crucial for financial institutions to develop robust p
 8. *Distribution of Late Payments*:
    - Most borrowers have zero to one late payment, while a smaller proportion has multiple late payments, indicating varying levels of financial management among borrowers.
 
-## Analysis Results Summary
-
-- *Total number of loans*: 1000
-- *Total loan amount*: £20,934,255.00
-- *Average loan amount*: £20,934.26
-- *Average interest rate*: 7.30%
-- *Average credit score*: 698.29
-- *Delinquency rate*: 70.90%
-- *Correlation between credit score and interest rate*: -0.9652
-- *Correlation between income and loan amount*: 0.9308
-
-## Loans by Term
-
-| Loan Term (months) | Count | Total Amount | Average Amount |
-|--------------------|-------|--------------|----------------|
-| 12                 | 110   | £2,132,824   | £19,438.95     |
-| 24                 | 205   | £4,321,484   | £21,080.41     |
-| 36                 | 382   | £8,041,205   | £21,050.27     |
-| 48                 | 209   | £4,552,801   | £21,783.74     |
-| 60                 | 94    | £1,880,481   | £20,005.12     |
-
 These insights and analysis results provide a comprehensive understanding of the loan data, highlighting key trends and relationships that can help financial institutions improve their risk management strategies. The ability to predict and mitigate loan delinquency risks can significantly enhance financial stability and profitability.
 
 ## Project Description
